@@ -44,7 +44,7 @@ Pima Indian kadınlarına ait medikal verilerle kişilerin diyabet hastası olup
 - Model değerlendirme metrikleri: Accuracy, Precision, Recall, F1, ROC AUC
 
 ---
-##Task 6
+## Task 6
 ## ✅ Hitters Salary Prediction with Linear Regression
 
 ### 🎯 Amaç:
